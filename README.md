@@ -10,7 +10,7 @@ Express-Session
 MySQL
 
 # Screenshot
-![screenshot](.\assets\147842583-56232421-042b-436e-9662-fade356bba4e.png)
+![screenshot](./assets/147842583-56232421-042b-436e-9662-fade356bba4e.png)
 
 # Link
 Heroku: https://blog-for-technology.herokuapp.com/
