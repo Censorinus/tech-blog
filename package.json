@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Censorinus/tech-blog"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Censorinus/tech-blog"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
